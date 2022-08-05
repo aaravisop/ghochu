@@ -1,0 +1,5 @@
+{
+	"ip":Aaravop1239900.aternos.me:17419
+	"port": 17419
+	"name": "afkbot"
+}
